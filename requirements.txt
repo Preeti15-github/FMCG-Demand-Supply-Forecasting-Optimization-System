@@ -4,7 +4,6 @@ prophet
 streamlit
 statsmodels
 scikit-learn
-pmdarima
 cython>=0.29.21
 pmdarima==1.8.5
 plotly==5.0.0
