@@ -5,3 +5,10 @@ streamlit
 statsmodels
 scikit-learn
 pmdarima
+cython>=0.29.21
+pmdarima==1.8.5
+plotly==5.0.0
+pandas>=1.1.0
+prophet==1.1.1
+streamlit>=1.0.0
+scikit-learn>=0.24.0
